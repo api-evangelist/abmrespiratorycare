@@ -1,0 +1,21 @@
+{
+  "repo": "abmrespiratorycare",
+  "feeds": [
+    {
+      "source": "https://abmrc.com/news/",
+      "feed_url": "https://abmrc.com/news/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://abmrc.com/",
+      "feed_url": "https://abmrc.com/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-09-06T19:17:18Z"
+}
