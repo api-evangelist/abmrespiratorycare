@@ -66,7 +66,7 @@
 
 ABM Respiratory Care (ABMRC, LLC — operating with Advanced Biomechanics Private Limited in Bangalore, India and Advanced Bio Machines PTE LTD in Singapore, with US headquarters in Eagan, Minnesota) is a privately held respiratory medical device manufacturer founded by CTO Vinay Joshi and led by CEO Greg Miller. It designs, manufactures and sells airway clearance and lung ventilation hardware under the BiWaze brand — BiWaze Clear (oscillation and lung expansion therapy) and BiWaze Cough (mechanical insufflation-exsufflation) — in both hospital and home-care configurations, sold through direct sales, demo requests and reimbursement channels rather than self-service signup. ABM Respiratory Care is a physical device company: it publishes no developer portal, no public API, no SDK and no machine-readable specification, and its entire public web surface is a WordPress marketing site at abmrc.com plus a separate WordPress electronic instructions-for-use portal at eifu.abmrc.com.
 
-**Areas:** Company · Medical Devices · Healthcare · Medical Technology · Respiratory Care · Airway Clearance · Mechanical Ventilation · Pulmonology · Home Health · Hospital Equipment
+**Areas:** Company · Medical Devices · Healthcare · Medical Technology · Respiratory Care · Airway Clearance · Mechanical Ventilation · Pulmonology · Home Care · Hospital Equipment
 
 ## ABM Respiratory Care on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Abmrespiratorycare Domain Security](https://apis.io/security/abmrespiratorycare/abmrespiratorycare-domain-security/)
+- [ABM Respiratory Care Domain Security](https://apis.io/security/abmrespiratorycare/abmrespiratorycare-domain-security/)
 
 ## Where to find this API
 
@@ -94,7 +94,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 10.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 11.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -103,7 +103,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 7.1 |
-| Access clarity | 21.1 |
+| Access clarity | 31.9 |
 
 **Agent readiness 0.0** — human-only
 
@@ -128,8 +128,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 10.9** — Health
+**Regulatory alignment 6.3** — Health
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/abmrespiratorycare/](https://apis.io/providers/abmrespiratorycare/).
 
